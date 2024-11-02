@@ -2,7 +2,7 @@
 
 // Required
 @import "../node_modules/bootstrap/scss/functions"
-@import "assets/styles/variables" // custom variables
+@import "../public/styles/variables" // custom variables
 @import "../node_modules/bootstrap/scss/mixins"
 
 body
@@ -33,19 +33,19 @@ body
 .nav-link
   padding: 0.5rem 0.25em 0 0.25em !important
 
-.nav-item.active
-  color: black
-  border: solid 2px black
-.active .nav-link
-  color: black
 
 .nav-item:hover
-  color: white
+  color: white !important
   background-color: $blue-100
 
   .nav-link
     color: white !important
 
+.nav-item.active
+  color: black
+  background-color: rgb(0 153 232 / 46%)
+.active .nav-link
+  color: black !important
 
 .nav-photo
   width: 74px
@@ -90,7 +90,7 @@ a, .flag
 h2
   font-size: 1.4em
 
-section, app-section
+section, app-cv-section
   border-top: 1px solid #dedede
   padding: 20px 0 0
 

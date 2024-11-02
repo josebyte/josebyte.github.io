@@ -1,0 +1,54 @@
+
+<div class="sectionTitle col-md-3">
+  <h1>{{section.name | translate}}</h1>
+</div>
+<div class="sectionContent col-md-9">
+  @for(item of section.items; track item){
+    <article class="mb-5">
+      @if(item.startDate && item.endDate){
+        <span class="periodo">{{item.startDate.date | date: 'yyyy'}} - {{item.endDate.date | date: 'yyyy'}}</span>
+      }
+      @if(item.date){
+        <span class="periodo">{{item.date}}</span>
+      }
+
+      @if(item.qualification){
+        <div>
+          <h2>
+            @if(!item.url){
+              {{ item.qualification }}
+            }@else{
+              <a class="link" [href]="item.url">{{ item.qualification }}</a>
+            }
+          </h2>
+        </div>
+      }
+
+
+      @if(item.occupation && item.occupation.label && !item.url){
+        <div>
+          <h2>{{ item.occupation.label }}</h2>
+        </div>
+      }
+
+      @if(item.organisationName || item.employer){
+        <p class="subDetails" >
+          <img class="organisation-logo"
+               [src]="'/images/organisations/'+ (item.organisationName ? item.organisationName : item.employer) +'.png'"
+               (error)="getErrorImage($event)">
+          ({{ item.organisationName ? item.organisationName : item.employer}})
+        </p>
+      }
+
+
+      <div class="subDesc mt-2" [innerHTML]="getContent(item)"></div>
+
+      <!--todo: tecnologias-->
+
+      <!--
+      <app-tecnologies [text]="item.description ? item.description : item.mainActivities"></app-tecnologies>
+      -->
+    </article>
+  }
+
+</div>

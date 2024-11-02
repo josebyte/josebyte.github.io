@@ -1,40 +1,41 @@
 {
   "title": "Software engineer",
 
-  "personalInformation": "Información personal",
-  "firstName": "Nombre",
-  "lastName": "Apellidos",
-  "dateOfBirth": "Fecha de nacimiento",
-  "sex": "Sexo",
-  "nationalities": "Nacionalidad",
-  "city": "Ciudad",
-  "pais": "País",
+  "personalInformation": "Personal information",
+  "firstName": "First name",
+  "lastName": "Last name",
+  "dateOfBirth": "Date of birth",
+  "sex": "Gender",
+  "nationalities": "Nationality",
+  "city": "City",
+  "pais": "Country",
   "emails": "Email",
-  "phones": "Teléfono",
-  "drivingLicense": "Permiso de conducir",
-  "educationTrainings": "Formación académica",
-  "complementaryTrainings": "Formación complementaria",
-  "books": "Libros publicados",
-  "workExperiences": "Experiencia laboral",
-  "organisationalSkills": "Competencias organizativas",
-  "languageSkills": "Idiomas",
+  "phones": "Phone",
+  "drivingLicense": "Driving license",
+  "educationTrainings": "Education",
+  "complementaryTrainings": "Additional training",
+  "books": "Published books",
+  "workExperiences": "Work experience",
+  "organisationalSkills": "Organizational skills",
+  "languageSkills": "Languages",
+  "mypublications": "My publications",
 
   "tecnologies": "Tecnologías",
 
   "LANG": {
-    "listening": "Comprensión auditiva",
-    "reading": "Comprensión lectora",
-    "writing": "Expresión escrita",
-    "spokenInteraction": "Oral",
-    "baq": "Euskera",
-    "ingles": "Inglés"
+    "listening": "Listening",
+    "reading": "Reading",
+    "writing": "Writing",
+    "spokenInteraction": "Speaking",
+    "baq": "Basque",
+    "ingles": "English"
   },
 
   "nav": {
     "cv": "CV",
-    "briefcase": "Portafolio",
-    "recommendation-letters": "Recomendaciones",
-    "print": "Imprimir",
-    "contact": "Contactar"
+    "briefcase": "Portfolio",
+    "recommendation-letters": "Recommendation letters",
+    "print": "Print",
+    "contact": "Contact"
   }
 }
