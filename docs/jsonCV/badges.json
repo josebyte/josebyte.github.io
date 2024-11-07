@@ -1,0 +1,42 @@
+[
+  {
+    "date": "11/2024",
+    "qualification": "Developing Secure Software",
+    "organisationName": "Linux Foundation",
+    "description": "",
+    "url": "https://www.credly.com/badges/4b53a05f-831a-42ff-8053-c873c6360c47/public_url",
+    "image": "linuxdevsecsoft.png"
+  },
+  {
+    "date": "08/2024",
+    "qualification": "Certificación SCRUM",
+    "organisationName": "SCRUMstudy",
+    "description": "",
+    "url": "https://www.scrumstudy.com/certification/verify?type=SFC&number=1050469",
+    "image": "scrum.png"
+  },
+  {
+    "date": "08/2022",
+    "qualification": "Google Project Manager",
+    "organisationName": "Coursera",
+    "description": "",
+    "url": "https://www.credly.com/badges/b7f78557-21d3-4286-8d2f-7947a1bc5ce6/public_url",
+    "image": "GPM.png"
+  },
+  {
+    "date": "05/2020",
+    "qualification": "Six sigma green belt",
+    "organisationName": "Coursera",
+    "description": "",
+    "url": "https://coursera.org/verify/specialization/8GQQ3JMGH683",
+    "image": "sixsigmagreenbelt.png"
+  },
+  {
+    "date": "04/2015",
+    "qualification": "MongoDB Certified",
+    "organisationName": "MongoDB",
+    "description": "",
+    "url": "https://www.credly.com/badges/3238812d-63ff-4acf-83fb-d2fad4ce9742/public_url",
+    "image": "mongocert.png"
+  }
+]

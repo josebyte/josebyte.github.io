@@ -11,6 +11,7 @@ import { TranslateModule } from "@ngx-translate/core";
 import { CvSectionComponent } from "../../components/cv-section/cv-section.component";
 import { CvHeaderComponent } from "../../components/cv-header/cv-header.component";
 import { CvBadgeComponent } from "../../components/cv-badge/cv-badge.component";
+import badges from "../../../../public/jsonCV/badges.json";
 
 @Component({
   selector: 'app-cv',
