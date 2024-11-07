@@ -29,7 +29,16 @@
       </section>
     }
 
-
+    <section class="row px-4 pb-5">
+      <div class="sectionTitle col-md-3">
+        <h1>{{ 'certifications' | translate }}</h1>
+      </div>
+      <div class="sectionContent col-md-9 row">
+        @for(badge of badges; track badge){
+          <app-cv-badge [badge]="badge"></app-cv-badge>
+        }
+      </div>
+    </section>
 
 
     <section class="row px-4 pb-5">
