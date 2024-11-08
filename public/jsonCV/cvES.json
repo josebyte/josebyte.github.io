@@ -11,7 +11,7 @@
         "education-training",
         "language",
         "organisational-skills",
-        "4d10fde4-e479-406a-8ec9-5142f79ed9ff"
+        "3ab922ba-2ebf-4960-8162-279e23768748"
       ],
       "dateFormat": null
     },
@@ -67,7 +67,7 @@
     },
     "educationTrainings": [
       {
-        "id": "65fdb743-7461-46ef-9799-38e29552f703",
+        "id": "eab8aaca-78bc-48d8-b735-e88a462d8d64",
         "order": 0,
         "qualification": "Master profesional en inteligencia artificial y big data",
         "organisationName": "CIDEAD",
@@ -79,7 +79,7 @@
         "city": null,
         "country": null,
         "website": null,
-        "creationDate": "2024-11-01T16:57:10.804",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2024-10-01",
           "dateType": "MONTH",
@@ -100,7 +100,7 @@
         "links": []
       },
       {
-        "id": "cfbb8895-b770-42dc-9ea5-531f46b515f8",
+        "id": "3d3f0813-aa2b-4b46-ab77-b79636fd797c",
         "order": 1,
         "qualification": "Master profesional en ciberseguridad en entornos de las tecnologías de la información",
         "organisationName": "CIDEAD",
@@ -112,7 +112,7 @@
         "city": null,
         "country": null,
         "website": null,
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2023-10-01",
           "dateType": "MONTH",
@@ -124,7 +124,7 @@
           "empty": false
         },
         "ongoing": false,
-        "description": null,
+        "description": "<p>Sobresaliente en Hacking ético</p>",
         "studyFields": [],
         "finalGrade": null,
         "thesis": null,
@@ -137,7 +137,7 @@
         "links": []
       },
       {
-        "id": "ed2c9bd5-500c-44b8-bcf2-8c97f4a7cb9e",
+        "id": "044d49ab-8c29-4640-a003-020cb18beb04",
         "order": 2,
         "qualification": "Técnico superior en desarrollo de aplicaciones web",
         "organisationName": "BirtLH",
@@ -149,7 +149,7 @@
         "city": null,
         "country": null,
         "website": null,
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2019-01-01",
           "dateType": "YEAR",
@@ -174,7 +174,7 @@
         "links": []
       },
       {
-        "id": "0d945ba0-51a2-47e2-960c-6514a1c14fc7",
+        "id": "15b5cd08-bb76-459c-9c05-93e9f2b208f5",
         "order": 3,
         "qualification": "Bachelor of science honours in computing",
         "organisationName": "Universidad de Gales",
@@ -186,7 +186,7 @@
         "city": null,
         "country": null,
         "website": null,
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2011-01-01",
           "dateType": "YEAR",
@@ -211,7 +211,7 @@
         "links": []
       },
       {
-        "id": "546fdaeb-c5ba-46ad-a25c-114df61a250c",
+        "id": "12560bc5-218d-4443-b2c9-08f3d12d0e62",
         "order": 4,
         "qualification": "Técnico superior en desarrollo de aplicaciones informáticas",
         "organisationName": "Colegio Zabalburu",
@@ -223,7 +223,7 @@
         "city": null,
         "country": null,
         "website": null,
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2005-01-01",
           "dateType": "YEAR",
@@ -250,14 +250,14 @@
     ],
     "workExperiences": [
       {
-        "id": "2bcb0d3a-ef30-4abb-bd59-070626a2681f",
+        "id": "43e99f13-b7f5-45aa-bd5d-5ba193d3cebe",
         "order": 0,
         "occupation": {
           "label": "Tech leader",
           "uri": null
         },
         "employer": "Sedical",
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2021-10-01",
           "dateType": "MONTH",
@@ -281,14 +281,14 @@
         "links": []
       },
       {
-        "id": "d0a2121b-a034-4c51-947c-dcbccf4045e9",
+        "id": "741def4e-fade-4988-a22c-76c410351667",
         "order": 1,
         "occupation": {
           "label": "Senior Frontend Engineer",
           "uri": null
         },
         "employer": "Irontec",
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2019-03-01",
           "dateType": "MONTH",
@@ -316,14 +316,14 @@
         "links": []
       },
       {
-        "id": "5537f692-7924-43f1-8c73-ea087d97d9ae",
+        "id": "6002cf6d-b2b8-41c0-9802-b5de74b24317",
         "order": 2,
         "occupation": {
           "label": "Senior Fullstack Engineer",
           "uri": null
         },
         "employer": "Wlingua",
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2015-06-01",
           "dateType": "MONTH",
@@ -351,14 +351,14 @@
         "links": []
       },
       {
-        "id": "2e436a87-31ea-4f6b-86d1-dacf3590f5a0",
+        "id": "f273c2dc-cad3-4ff1-8de8-8b18938698af",
         "order": 3,
         "occupation": {
           "label": "Web Architect I+D",
           "uri": null
         },
         "employer": "Dominion",
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2014-08-01",
           "dateType": "MONTH",
@@ -386,14 +386,14 @@
         "links": []
       },
       {
-        "id": "4d6d5a9f-dd9d-4719-b405-9492326565ae",
+        "id": "9ad01b42-6cdd-40ac-a3e1-637f3d011022",
         "order": 4,
         "occupation": {
           "label": "Analista programador",
           "uri": null
         },
         "employer": "ForoDigital",
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2010-01-01",
           "dateType": "YEAR",
@@ -421,14 +421,14 @@
         "links": []
       },
       {
-        "id": "a328f337-e5ce-4a9d-a55e-78c87d0be625",
+        "id": "0178d381-5854-4de0-9b3d-8d0207efc048",
         "order": 5,
         "occupation": {
           "label": "Consultor informático",
           "uri": null
         },
         "employer": "Mirasoluciones",
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2009-01-01",
           "dateType": "YEAR",
@@ -456,14 +456,14 @@
         "links": []
       },
       {
-        "id": "9423c5ef-8680-4c7d-aab3-6409d956f32d",
+        "id": "9da9f000-2b66-4e9b-813d-0e5ec687e1af",
         "order": 6,
         "occupation": {
           "label": "Programador Junior PLSQL-ORACLE",
           "uri": null
         },
         "employer": "Steria Iberica",
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2007-07-01",
           "dateType": "MONTH",
@@ -491,14 +491,14 @@
         "links": []
       },
       {
-        "id": "0faf47ce-6b82-4396-876b-a4fa67ba36a2",
+        "id": "96c23af9-6aac-47d4-b6c9-6e3a3221fa90",
         "order": 7,
         "occupation": {
           "label": "Programador Junior SAP",
           "uri": null
         },
         "employer": "Cromion IT",
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2007-04-01",
           "dateType": "MONTH",
@@ -526,14 +526,14 @@
         "links": []
       },
       {
-        "id": "86f79660-7628-44a7-823f-99ca568ec493",
+        "id": "3c9560fc-f408-4ddb-a52a-6f9c88b2e679",
         "order": 8,
         "occupation": {
           "label": "Monitor de clases extraescolares de informática",
           "uri": null
         },
         "employer": "Instituto Eskurtze",
-        "creationDate": "2024-11-01T16:57:10.805",
+        "creationDate": "2024-11-08T19:12:28.124",
         "startDate": {
           "date": "2005-01-01",
           "dateType": "MONTH",
@@ -565,11 +565,11 @@
     "conferenceSeminars": null,
     "customSections": [
       {
-        "id": "4d10fde4-e479-406a-8ec9-5142f79ed9ff",
+        "id": "3ab922ba-2ebf-4960-8162-279e23768748",
         "title": "Competencias relacionadas con el empleo",
         "records": [
           {
-            "id": "cdc4a10b-05cc-43dd-a5d7-ed67cdf41eda",
+            "id": "9dd633fe-97e1-4cd4-afb2-923c3b5affae",
             "title": "Competencias relacionadas con el empleo",
             "startDate": null,
             "endDate": null,
@@ -622,7 +622,7 @@
     "managementLeaderships": null,
     "organisationalSkills": [
       {
-        "id": "24794690-0677-46e2-8d30-d69b63cb4787",
+        "id": "74d16042-ad3b-4733-9413-f475cb112caa",
         "order": 0,
         "title": "Competencias organizativas",
         "description": "<p>Liderazgo, actual responsable de un equipo de 2 personas.</p><p>Six-sigma green belt.</p><p>Metodologías ágiles: Scrum y XP.</p><p>Curso en prevención de riesgos laborales capacitante para el desarrollo de funciones de nivel básico (30h).</p>",

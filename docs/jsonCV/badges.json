@@ -1,6 +1,14 @@
 [
   {
     "date": "11/2024",
+    "qualification": "Hacking ético",
+    "organisationName": "CISCO",
+    "description": "",
+    "url": "https://www.credly.com/badges/72e2ea0a-7dc4-4b44-9e4f-a40cb5b6f0d1/public_url",
+    "image": "hackingetico.png"
+  },
+  {
+    "date": "11/2024",
     "qualification": "Developing Secure Software",
     "organisationName": "Linux Foundation",
     "description": "",
