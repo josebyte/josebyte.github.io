@@ -1,8 +1,16 @@
 [
   {
+    "date": "01/2025",
+    "qualification": "CCST",
+    "organisationName": "Cisco",
+    "description": "",
+    "url": "https://www.credly.com/badges/e47f4717-4184-49e7-a2e5-27fe1723bb7b/public_url",
+    "image": "CiscoCCST.png"
+  },
+  {
     "date": "11/2024",
     "qualification": "Hacking ético",
-    "organisationName": "CISCO",
+    "organisationName": "Cisco",
     "description": "",
     "url": "https://www.credly.com/badges/72e2ea0a-7dc4-4b44-9e4f-a40cb5b6f0d1/public_url",
     "image": "hackingetico.png"
