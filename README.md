@@ -1,5 +1,13 @@
 # Personalpagenewwithbootstrap
 
+Para subir los cambios es necesario hacer un buid:
+```
+npm run build
+```
+Posteriormente mover el contenido de la carpeta browser a docs y cambiar index.csr.html por index.html
+Commit y push
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
 
 ## Development server
